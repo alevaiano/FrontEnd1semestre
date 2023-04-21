@@ -1,0 +1,9 @@
+@font-face {
+    font-family: fonte_banana ;
+    src: url(../aula2_css/fontes/TiltPrism-Regular-VariableFont_XROT\,YROT.ttf);
+}
+
+h1{
+    font-family: fonte_banana ;
+    color: green;
+}

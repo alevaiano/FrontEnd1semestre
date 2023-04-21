@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap'); /*pegando API do google, normalmente criamos uma pasta "fontes"*/
+
+h1{
+    font-family: 'Sofia', cursive; /*copiar do site*/
+}
+
+/*body{
+
+    font-weight: 800;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    font-style:italic;
+    background-color: beige;
+    text-align: center;
+    font-size: 80px;
+}*/
